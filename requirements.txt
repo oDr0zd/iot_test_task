@@ -1,0 +1,8 @@
+aiohttp
+asyncpg
+peewee
+peewee-async
+loguru
+pytest
+psycopg2
+aiopg
